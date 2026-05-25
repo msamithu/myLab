@@ -11,6 +11,19 @@ Edit these files:
 - `assets/css/styles.css` for colors, spacing, and visual style.
 - `assets/images/lab-hero.png` to replace the hero image with a real lab photo.
 
+## Dynamic Features
+
+This site is still static and works on GitHub Pages, but includes interactive features:
+
+- Light/dark theme toggle with saved preference.
+- Research area tabs.
+- Searchable and filterable publications.
+- Searchable and type-filtered news/events.
+- Auto-sorted upcoming events and recent news.
+- Lab member profile popups.
+- Back-to-top control.
+- Hero panel that automatically shows the next upcoming event.
+
 ## Update News and Events
 
 Open `assets/js/events-data.js` and edit the list:
